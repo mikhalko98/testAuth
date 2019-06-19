@@ -1,2 +1,4 @@
 # testAuth
-this progect use vue
+This project use vue
+
+Code written with ESLint rules
